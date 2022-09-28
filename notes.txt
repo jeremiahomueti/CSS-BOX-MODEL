@@ -1,0 +1,12 @@
+THE CSS BOX MODEL 
+
+It's the idea that everythin in CSS is a BOX
+...and those boxes have thier peculiar properties. 
+
+
+If you observe the boxes perimeterizing every object in a web
+page, from the inspect view, you'll notice that each box 
+has different colours. Some boxes have blue, some orange, 
+some green. And those different colours mean different things. 
+
+
